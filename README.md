@@ -1,6 +1,6 @@
 # Privacy Policy for Motel Blyn
 **Last Updated: April 22, 2026**
-Mofentea Animation ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we handle information in relation to our game, **Motel Blyn**.
+Mofentea Animation ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we handle information in relation to my game, **Motel Blyn**.
 ### 1. Offline Gameplay & Data Privacy
 Motel Blyn is designed to be played entirely **offline**. The game does not require an active internet connection to function (except for initial Steam download and Steam Cloud saves). We do not collect, store, or share any personal data, gameplay statistics, or private information from its players.
 ### 2. In-Game "Weborino AI" Clarification
